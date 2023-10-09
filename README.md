@@ -39,7 +39,7 @@ pip install torch torchaudio pandas torchsummary
 
 ## Usage
 ```
-git clone https://github.com/yourusername/urbansound-classification.git
+git clone https://github.com/AniNotRude/Audio_Classification.git
 ```
 
 
