@@ -36,13 +36,11 @@ To run this script, you need the following prerequisites:
 
 You can install these dependencies using `pip`:
 ```
-bash
 pip install torch torchaudio pandas torchsummary
 ```
 
 ## Usage
 ```
-bash
 git clone https://github.com/yourusername/urbansound-classification.git
 ```
 
