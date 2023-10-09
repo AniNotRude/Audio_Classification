@@ -1,6 +1,6 @@
 # Urban Sound Classification with PyTorch
 
-This Python script is designed to train a Convolutional Neural Network (CNN) for classifying urban sounds using the UrbanSound8K dataset(https://urbansounddataset.weebly.com/urbansound8k.html). The script follows a step-by-step process for data loading, preprocessing, model definition, training, and inference.
+This Python script is designed to train a Convolutional Neural Network (CNN) for classifying urban sounds using the UrbanSound8K dataset (https://urbansounddataset.weebly.com/urbansound8k.html). The script follows a step-by-step process for data loading, preprocessing, model definition, training, and inference.
 
 ## Table of Contents
 
