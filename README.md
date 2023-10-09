@@ -7,8 +7,6 @@ This Python script is designed to train a Convolutional Neural Network (CNN) for
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Code Explanation](#code-explanation)
-- [License](#license)
 
 ## Overview
 
