@@ -36,7 +36,7 @@ To run this script, you need the following prerequisites:
 
 You can install these dependencies using `pip`:
 
-bash
+```bash
 pip install torch torchaudio pandas torchsummary```
 
 
